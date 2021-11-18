@@ -32,7 +32,7 @@ O trabalho se baseia em:
 
 
 
-Caso queira clonar nosso repositório, clique <a href="https://github.com/bragabriel/Projeto-POO-Java.git">aqui</a>.
+Caso queira clonar este repositório, clique <a href="https://github.com/bragabriel/Projeto-POO-Java.git">aqui</a>.
 
 
 
